@@ -23,16 +23,16 @@ class Config:
         []
     )
     
-    BOT_TOKEN = None
-    BOT_NAME = ''
-    BOT_USERNAME= 'mikoRobot'
-    BOT_ID = 1302770491
+    BOT_TOKEN = '1790438414:AAHFLCQyUDBNesGpRL2WESUdb6Px2AAl1Gk'
+    BOT_NAME = 'Ember'
+    BOT_USERNAME= 'EMBER_ROBOT'
+    BOT_ID = 1790438414
     PREFIX = ['/', '!']
 
     DATABASE_URI = ''
-    BACKUP_CHAT = -100
+    BACKUP_CHAT = -1001580719176
 
-    LOG_CHANNEL = -100
+    LOG_CHANNEL = -1001580719176
 
     SUDO_USERS = (
         []
